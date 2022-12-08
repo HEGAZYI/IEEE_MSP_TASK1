@@ -1,0 +1,68 @@
+body{
+    background-image: url("plue_pirds.jpg");
+    background-attachment:cover;
+}
+.special-heading {
+    color: #ebeced;
+    font-size: 100px;
+    text-align: center;
+    font-weight: 800;
+    letter-spacing: -3px;
+    margin: 0;
+}
+.abb{
+    position: relative;
+    bottom: 36px;
+    margin-top: 30px;
+    color: rgb(87, 124, 124);
+    font-size: 30px;
+    text-align: center;
+    letter-spacing: 0px;
+}
+section{
+    background-color: rgb(235 229 229 / 70%);
+    width: 750px;
+    margin: auto;
+    border-radius: 2%;
+    border-color: #e4102e #291492 aqua #426449;
+    border-style: double;
+}
+.one{
+    display: inline;
+    width: 250px;
+    height: 250px;
+    position: relative;
+    image-rendering: auto;
+    margin-top: 20px;
+    left: 225px;
+    border-style: inset;
+    border-color: red blue aqua yellowgreen;
+}
+.paragraph{
+    text-align: center;
+    line-height: 1.2;
+    border-radius: 2%;
+    padding: 20px;
+    color: #1a8460;
+    font-size: 20px;
+    background-color: rgb(130 126 126 / 20%);
+}
+.paragraph span{
+    color: #ee0259;
+    font-size: 25px;
+}
+ul li{
+    list-style: none;
+  
+}
+ul li img{
+    width: 50px;
+    height: 50px;
+}
+ul li a{
+    list-style: none;
+    text-decoration: none;
+    color: #291492;
+    font-size: 25px;
+
+}
